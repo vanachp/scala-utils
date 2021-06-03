@@ -1,2 +1,2 @@
 # scala-utils
-My personal collection of scala util library 
+My personal collection of scala util library
